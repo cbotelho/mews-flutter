@@ -83,6 +83,7 @@ export 'src/typography/paragraph.dart';
 export 'src/typography/title.dart';
 export 'src/typography/variation.dart';
 export 'src/widget_size.dart';
+export 'tokens_color.dart';
 
 ThemeData createOptimusMaterialTheme(Brightness brightness) => ThemeData(
       brightness: brightness,
