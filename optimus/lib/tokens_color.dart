@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 16 Dec 2022 16:21:03 GMT
+// Generated on Fri, 16 Dec 2022 16:47:03 GMT
 
 
 
@@ -113,7 +113,7 @@ class DesignTokensColor {
     static const colorBackgroundActionActive = Color(0xFF2D2BBA);
     static const colorBackgroundActionFocus = Color(0xFF2D2BBA);
     static const colorBackgroundActionHover = Color(0xFF2D2BBA);
-    static const colorBackgroundActionStatic = Color(0xFFEFF258);
+    static const colorBackgroundActionStatic = Color(0xFF3E3BD9);
     static const colorBackgroundBody = Color(0xFFFFFFFF);
     static const colorBackgroundDangerActive = Color(0xFFB31C23);
     static const colorBackgroundDangerFocus = Color(0xFFB31C23);
