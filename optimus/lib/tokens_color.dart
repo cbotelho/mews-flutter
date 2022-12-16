@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 13:15:53 GMT
+// Generated on Thu, 15 Dec 2022 23:53:13 GMT
 
 
 
@@ -124,7 +124,7 @@ class DesignTokensColor {
     static const colorTextActionDisabled = Color(0xFF72717D);
     static const colorTextActionFocus = Color(0xFF3E3BD9);
     static const colorTextActionHover = Color(0xFF2D2BBA);
-    static const colorTextActionStatic = Color(0xFF3E3BD9);
+    static const colorTextActionStatic = Color(0xFFEFF258);
     static const colorTextOnAction = Color(0xFFFFFFFF);
     static const colorTextOnDisabled = Color(0xFF72717D);
 }
