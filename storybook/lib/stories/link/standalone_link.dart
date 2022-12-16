@@ -37,7 +37,7 @@ final Story standaloneLink = Story(
 
 const _colors = [
   Option(label: 'none', value: null),
-  Option(label: 'black', value: OptimusLightColors.neutral1000),
-  Option(label: 'green', value: OptimusLightColors.success),
-  Option(label: 'red', value: OptimusLightColors.danger),
+  Option(label: 'black', value: DesignTokensColor.baseColorsNight900),
+  Option(label: 'green', value: DesignTokensColor.baseColorsGrey700),
+  Option(label: 'red', value: DesignTokensColor.baseColorsRed600),
 ];
