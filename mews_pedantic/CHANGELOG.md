@@ -1,3 +1,9 @@
+## 0.11.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: Bump dart_code_metrics to 5.4.0.
+
 ## 0.10.0
 
 > Note: This release has breaking changes.
